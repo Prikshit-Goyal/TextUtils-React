@@ -1,0 +1,37 @@
+.div123{
+    display: flex;
+    justify-content: center;
+}
+textarea{
+    width: 800px;
+    border-radius: 5px;
+    margin-left: 280px;
+    margin-right: 258px;
+}
+h3{
+    margin-top: 40px;
+    margin-left: 280px;
+    margin-bottom: 4px;
+}
+
+.btn1{
+    /* margin-left: 941px;
+    margin-top: 5px;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px; */
+    margin: 10px 10px 10px 280px;
+}
+.container1{
+    border: 2px solid rgb(88, 88, 230);
+    margin-left: 280px;
+    position: absolute;
+    padding: 10px;
+    margin-top: 0px;
+    border-radius: 5px;
+}
+.p1{
+    margin-left: 280px;
+}
